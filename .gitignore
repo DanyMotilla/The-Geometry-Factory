@@ -1,0 +1,8 @@
+# Build directories
+build/
+
+# Object files
+*.o
+
+# Executables
+*.out
