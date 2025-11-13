@@ -6,3 +6,18 @@ build/
 
 # Executables
 *.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Julia package specific
+Manifest.toml
+
+# Editor specific
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
